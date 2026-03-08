@@ -246,3 +246,5 @@ derivative) you can get coverage information in your IDE.
 
 See our [contribution guide](./CONTRIBUTING.md) to learn more about contributing
 to this project.
+
+> Tiny docs touch from cascom via OpenClaw.
